@@ -93,8 +93,9 @@ else:
 
 ```
 
-<p>· Finalment procedim a l'execució del programa imprimint en pantalla un missatge de benvinguda per a l'usuari i sol·licitant que intenti endevinar el número en menys de 6 intents.</p>
-<p> El programa, mitjançant una estructura de control de fluxe iterativa (_while_), anirà repetint el bucle analitzant les condicions proposades. Si s'arriba al nombre màxim d'intents, bota directament a la funció _print_ situada a dins l'estructura _else_.
+· Finalment procedim a l'execució del programa imprimint en pantalla un missatge de benvinguda per a l'usuari i sol·licitant que intenti endevinar el número en menys de 6 intents.  
+
+El programa, mitjançant una estructura de control de fluxe iterativa (_while_), anirà repetint el bucle analitzant les condicions proposades. Si s'arriba al nombre màxim d'intents, bota directament a la funció _print_ situada a dins l'estructura _else_.
 
 # ➕ Informació
 1️⃣ L'arxiu **.py** ha estat comentat al detall (#) per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
