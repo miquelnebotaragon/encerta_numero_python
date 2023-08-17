@@ -37,8 +37,10 @@ user@debian-mnebot:~$ sudo pip install random
 ```
 
 # 👇 Descàrrega i execució
-Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **encerta_numero.py**).
-<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/encerta_numero/blob/main/encerta_numero.py" target="_blank">aquí</a>.
+Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **encerta_numero.py**).  
+
+📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/endevina_numero/blob/main/encerta_numero.py" target="_blank">aquí</a>.  
+
 
 # 🏆 Vull saber-ne més
 Desglossant el codi:
@@ -64,9 +66,9 @@ numero = random.randint(1, 20) # Feim treballar el módul "random" generant un n
 
 ```
 
-<p>· Mostram en pantalla un text on sol·licitam a l'usuari que escrigui el seu nom.</p>
-<p>· La segona variable s'encarregarà de fixar el nombre d'intents inicial a zero. Ja veurem a continuació com es va incrementant aquest valor.</p>
-<p>· Finalment, feim treballar el mòdul "random" generant un nombre aleatori entre 1 i 20.
+· Mostram en pantalla un text on sol·licitam a l'usuari que escrigui el seu nom.  
+· La segona variable s'encarregarà de fixar el nombre d'intents inicial a zero. Ja veurem a continuació com es va incrementant aquest valor.  
+· Finalment, feim treballar el mòdul "random" generant un nombre aleatori entre 1 i 20.  
 
 ## Part 2:
 ```python
