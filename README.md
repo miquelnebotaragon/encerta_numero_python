@@ -8,7 +8,7 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/57944755/223051160-9e5a1cdb-5bb7-4de8-b9a1-960865cade5f.png"></div>
+<div align="center"><img src="https://github.com/miquelnebotaragon/endevina_numero/assets/57944755/d8f0cc43-c2b2-4202-bb0c-97c1fa3ac541"></div>
 
 
 # 👁️‍🗨️ Introducció
@@ -18,7 +18,7 @@ Aprenem jugant. Pràctiques amb Python.
 Debian GNU/Linux 12 (bookworm) x86_64
 
 # 0️⃣ Abans de començar
-1. Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si disposam d'ell i la seva versió mitjançant la instrucció següent a dins el Terminal (Ctrl+Alt+T): 
+1. Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si disposam d'aquest programari i la seva versió mitjançant la instrucció següent a dins el Terminal (Ctrl+Alt+T): 
 
 ```console
 user@debian-mnebot:~$ sudo python3 -V
@@ -31,7 +31,7 @@ user@debian-mnebot:~$ sudo apt install python3
 ```console
 user@debian-mnebot:~$ sudo apt install python3-pip
 ```
-3. Instal·larem finalment la llibreria necessària:
+3. Instal·larem, finalment, el mòdul necessari:
 ```console
 user@debian-mnebot:~$ sudo pip install random
 ```
