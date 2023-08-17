@@ -1,7 +1,10 @@
-# Importació llibreries
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Mòduls a importar:
 import random
 
-# Variables
+# Variables:
 nom_usuari = input('Hola! Quin és el teu nom? ')
 intents = 0
 numero = random.randint(1, 20)
@@ -24,4 +27,3 @@ while intents < 6:
         break
 else:
     print('No hi ha hagut sort!')
-
